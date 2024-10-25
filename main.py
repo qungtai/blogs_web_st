@@ -1,7 +1,7 @@
 import streamlit as st 
 
 def main_page():
-    st.title('helllo')
+    st.title('hello')
     st.write('afjasdfjasdfasdjfajdlsk')
     st.write('asdasdfasdf')
     
